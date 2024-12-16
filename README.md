@@ -1,4 +1,4 @@
-# HappTrail
+# HappTrail 🗺
 
 HappTrail est une application mobile innovante qui connecte les utilisateurs aux événements autour d'eux en temps réel. En combinant des cartes interactives et des notifications contextuelles, HappTrail permet de découvrir des activités locales de manière amusante et intuitive.
 
